@@ -180,15 +180,6 @@ leijun-skill/
 
 ---
 
-## 更多.skill
-
-| 人物 | 仓库 | 核心心智模型 |
-|------|------|------------|
-| 张一鸣 | [zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) | 延迟满足、Context not Control... |
-| 雷军 | [leijun-skill](https://github.com/JasperHye/leijun-skill) | 顺势而为、效率革命、用户参与... |
-
----
-
 ## 许可证
 
 MIT — 随便用，随便改，随便蒸馏。
